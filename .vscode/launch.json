@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": ".",
-      "program": "build/Debug/outDebug"
+      "cwd": "/Users/aurenciabarton/Library/CloudStorage/OneDrive-Personal/Coding Practice/complete-guide-to-c-programming-foundations-4504398/CH01/01_02",
+      "program": "/Users/aurenciabarton/Library/CloudStorage/OneDrive-Personal/Coding Practice/complete-guide-to-c-programming-foundations-4504398/CH01/01_02/build/Debug/outDebug"
     }
   ]
 }
