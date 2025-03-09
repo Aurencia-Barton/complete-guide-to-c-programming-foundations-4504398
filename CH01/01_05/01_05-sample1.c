@@ -1,7 +1,7 @@
 /* input and loop demo */
 #include <stdio.h>
 
-int main()
+int main(void)
 {
 	int a,b;
 
