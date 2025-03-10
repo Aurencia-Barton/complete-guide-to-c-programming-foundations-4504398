@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/aurenciabarton/Library/CloudStorage/OneDrive-Personal/Coding Practice/complete-guide-to-c-programming-foundations-4504398/CH02/02_03",
-      "program": "/Users/aurenciabarton/Library/CloudStorage/OneDrive-Personal/Coding Practice/complete-guide-to-c-programming-foundations-4504398/CH02/02_03/build/Debug/outDebug"
+      "cwd": "/Users/aurenciabarton/Library/CloudStorage/OneDrive-Personal/Coding Practice/complete-guide-to-c-programming-foundations-4504398/CH02/02_06",
+      "program": "/Users/aurenciabarton/Library/CloudStorage/OneDrive-Personal/Coding Practice/complete-guide-to-c-programming-foundations-4504398/CH02/02_06/build/Debug/outDebug"
     }
   ]
 }

@@ -3,7 +3,7 @@
 
 int main()
 {
-	time_t now;
+	time_t now;  // clock tick value
 
 	time(&now);
 	printf("%s",ctime(&now));

@@ -3,6 +3,6 @@
 
 int main()
 {
-	printf("Hello, world!\n");
+	printf("Hello, world!\n"); // first and only argument needed to create an output
 	return 0;
 }
