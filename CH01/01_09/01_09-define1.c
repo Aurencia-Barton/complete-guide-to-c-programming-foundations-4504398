@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <stdio.h>	//header files, angle brackets force it to look in the director for the pre-processor directive.
 #include <stdlib.h>
 #include <time.h>
 
-#define COUNT 10
+#define COUNT 10  //define constance values and you only need to change it where you see it.
 
 int main()
 {
