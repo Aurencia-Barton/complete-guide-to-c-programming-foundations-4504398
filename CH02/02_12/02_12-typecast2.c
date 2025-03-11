@@ -6,7 +6,7 @@ int main()
 {
 	int x,r[5];
 
-	srand((unsigned)time(NULL));
+	srand((unsigned)time(NULL)); //unsigned is known as a typecast
 
 	for(x=0;x<5;x++)
 		r[x] = rand()%10+1;
